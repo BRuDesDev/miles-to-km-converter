@@ -1,4 +1,4 @@
-# ◬ Miles to Kilometers Converter
+# 🔁 Miles to Kilometers Converter
 A simple, but visually appealing, GUI app that allows you to type in a value for miles and calculate the km.                                      
 _____________________________________________________________________________________________________________
 
@@ -29,7 +29,7 @@ sudo mkdir ~/git
 sudo cd ~/git       
 </code><br>
 <code>
-sudo git clone https://github.com/BRuDesDev/miles=to=km-converter.git      
+sudo git clone https://github.com/BRuDesDev/miles-to-km-converter.git      
 </code><br>
 <code>
 cd miles-to-km-converter       
