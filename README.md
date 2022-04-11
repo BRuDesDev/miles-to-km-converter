@@ -1,5 +1,8 @@
 # 🔁 Miles to Kilometers Converter
-A simple, but visually appealing, GUI app that allows you to type in a value for miles and calculate the km.                                      
+A simple, but visually appealing, GUI app that allows you to type in a value for miles and calculate the km.
+
+![image](https://user-images.githubusercontent.com/103232802/162845937-90652621-e2c2-4012-b1b1-daf3e875a4d6.png)
+
 _____________________________________________________________________________________________________________
 
 **_★ Must have Python 3.8 or higher to run game_**<br>
