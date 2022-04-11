@@ -15,7 +15,7 @@ def btn_clicked():
 
 
 window = Tk()
-window.title("Mile to Km Converter")
+window.title("【Mile to Km Converter】")
 window.config(padx=20, pady=20, bg=PURPLE)
 
 ent = Entry(window, width=12, bd=2, bg=LIGHT_PURP)
